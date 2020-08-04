@@ -1,6 +1,6 @@
 package ejemplo;
 
-public class FuncionBasic {
+public class ZfuncionBasic {
 
 	public static void main(String[] args) {
 		Campo Laptopnew = new Lapto();
