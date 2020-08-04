@@ -1,12 +1,12 @@
 package ejemplo;
 
-public abstract class Componentes implements Campo {
+public abstract class Componentes implements Acampo {
 
 	Campo componente;
 	String namecomp;
 	double pricecomp;
 	
-	public Componentes(Campo componente) {
+	public Componentes(Acampo componente) {
 		this.componente = componente;
 	}
 	
