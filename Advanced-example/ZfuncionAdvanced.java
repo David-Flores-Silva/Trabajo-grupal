@@ -4,11 +4,11 @@ public class FuncionAdvanced {
 
 	public static void main(String[] args) {
 			
-		Campo LaptopCnew = new Ventilador (new Soporte(new Lapto()));
+		Acampo LaptopCnew = new Ventilador (new Soporte(new Lapto()));
 		Mostrar(LaptopCnew);
 	}
 	
-	static void Mostrar(Campo componente) {
+	static void Mostrar(Acampo componente) {
 		System.out.println(componente.name() );
 		System.out.println(componente.price());
 		System.out.println("----------");
