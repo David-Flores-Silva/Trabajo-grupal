@@ -1,6 +1,6 @@
 package ejemplo;
 
-public class Lapto implements Campo {
+public class Laptop implements Acampo {
 
 	public String name() {
 		return "Laptop: " +price();
