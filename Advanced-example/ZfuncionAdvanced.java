@@ -4,7 +4,7 @@ public class ZfuncionAdvanced {
 
 	public static void main(String[] args) {
 			
-		Acampo LaptopCnew = new Ventilador (new Soporte(new Lapto()));
+		Acampo LaptopCnew = new Ventilador (new Soporte(new Laptop()));
 		Mostrar(LaptopCnew);
 	}
 	
