@@ -1,6 +1,6 @@
 package ejemplo;
 
-public class FuncionAdvanced {
+public class ZfuncionAdvanced {
 
 	public static void main(String[] args) {
 			
